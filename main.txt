@@ -1,0 +1,17 @@
+commit a8bc976f58401cd89ce68aad2c256ee954391343
+Author: Reilly Cozette <cozetter@findlay.edu>
+Date:   Thu Feb 8 22:02:20 2024 -0500
+
+    fixed bug1
+
+commit e9f4b886692cc604685684bd62dad504793686e2
+Author: Reilly Cozette <cozetter@findlay.edu>
+Date:   Thu Feb 8 21:57:06 2024 -0500
+
+    Added file1.txt with before branching text
+
+commit ffe0be9e01b5e6b1c46ebdd1254a3ff4de554d29
+Author: cozetter <143119090+cozetter@users.noreply.github.com>
+Date:   Thu Feb 8 21:35:21 2024 -0500
+
+    Initial commit
